@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          formulario de autorização
+          https://www.youtube.com/watch?v=v05vCO_ScdY&list=PLC8QA_SSHxxu3xBicWcQqddRq8BVAgrJj&index=4 
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
